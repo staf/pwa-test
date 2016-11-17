@@ -1,0 +1,21 @@
+{
+  "name": "PWA Test Application",
+  "short_name": "PWA Test",
+  "start_url": ".",
+  "background_color": "#ebebeb",
+  "display": "minimal-ui",
+  "lang": "en-US",
+  "description": "A very simple application made to test PWA and service workers.",
+  "icons": [
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-160.png",
+      "sizes": "160x160",
+      "type": "image/png"
+    }
+  ]
+}
